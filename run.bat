@@ -1,0 +1,1 @@
+D:\main\python\python312\python.exe D:\main\main.py
